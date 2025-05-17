@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yustaeva
 - 👀 I’m interested in Data science, Machine and Deep Learning.
-- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on Data science or Machine and Deep Learning projects.
 - 📫 How to reach me: E-mail: julianastaeva@gmail.com
 
